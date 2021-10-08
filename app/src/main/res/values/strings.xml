@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quidditch score keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score">Points</string>
+    <string name="hits">Hits</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="bludger">Bludger</string>
+    <string name="snitcher">Snitcher!!</string>
+    <string name="reset">Reset</string>
+    <string name="initial">0</string>
+</resources>
